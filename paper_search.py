@@ -31,7 +31,7 @@ except:
 if page == "Search Paper":
 	st.title("Search Similar Papers 📑")
 	
-	st.caption('Example Title: 1D Convolutional Neural Networks Applications')
+	st.caption('Example Title: 1D Convolutional Neural Networks Applications, Image captioning')
 
 	column1 = st.selectbox("Select Filter Option:",("Title","abstract"))
 	
