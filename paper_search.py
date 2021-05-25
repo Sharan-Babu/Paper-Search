@@ -82,7 +82,7 @@ elif page == "Visualize available Papers":
 	st.title("Analysis 📊")
 	st.markdown("""<a href="https://enterprise-search-deployment-e1a20d.kb.eastus2.azure.elastic-cloud.com:9243/app/dashboards#/view/a32376f0-bb6a-11eb-adae-81ceaf0c6ba0?_g=(filters%3A!()%2CrefreshInterval%3A(pause%3A!t%2Cvalue%3A0)%2Ctime%3A(from%3Anow-15m%2Cto%3Anow))">Interactive Dashboard Link</a>""",unsafe_allow_html=True)
 	st.caption("Report Images")
-	st.image('donut.png',width=440)
-	st.image('bar_chart.png')
+	st.image('donut.PNG',width=440)
+	st.image('bar_chart.PNG')
 	
 
