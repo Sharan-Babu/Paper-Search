@@ -50,6 +50,8 @@ if page == "Search Paper":
 				st.markdown('<h2><b>Top Results:',unsafe_allow_html=True)
 				st.caption("Ranked based on Similarity")
 				i = 1
+				if len(output)==0:
+					st.warning("No match. Add paper or try another keyword)
 				for paper in output:
 					st.markdown(f'{i}. {paper[1]}. <a href="{paper[2]}">Link</a>',unsafe_allow_html=True)
 					i += 1
