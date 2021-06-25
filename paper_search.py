@@ -3,7 +3,7 @@ from elasticsearch_dsl import connections, Search
 from elasticsearch import Elasticsearch
 
 st.set_page_config(page_title="Paper Search",page_icon="📄")
-st.title("Paper Search🕵")
+st.title("Paper Search 🕵")
 
 st.sidebar.title("Similar Paper Finder 📃")
 
