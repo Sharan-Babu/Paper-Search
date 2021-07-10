@@ -1,0 +1,7 @@
+This is the format.
+
+##
+Intent name and response: new_intent=hi man.
+
+##
+Intent name and response: even_new=great.
