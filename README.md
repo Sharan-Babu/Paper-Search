@@ -11,3 +11,4 @@ An easy to use web application that helps you search relevant research papers wi
 <br>
 
 ![''](https://github.com/Sharan-Babu/Paper-Search-ElasticSearch/blob/main/bar_chart.PNG)
+![17](https://github.com/Sharan-Babu/Paper-Search-ElasticSearch/assets/50396375/75b47b12-aaf6-4165-b7b5-70f025ce3035)
